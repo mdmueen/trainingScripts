@@ -1,0 +1,9 @@
+{
+    "env" : {
+        "username" : "tomsmith",
+        "password" : "SuperSecretPassword!"
+    },
+    "pageLoadTimeout" : 60000,
+    "watchForFileChanges" : true,
+    "defaultCommandTimeout" : 5000
+}

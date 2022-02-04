@@ -1,0 +1,19 @@
+{
+  "name": "trainingscripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress:open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axe-core": "^4.4.0",
+    "cypress": "^9.3.1",
+    "cypress-axe": "^0.14.0"
+  },
+  "dependencies": {
+    "cypress-xpath": "^1.6.2"
+  }
+}
